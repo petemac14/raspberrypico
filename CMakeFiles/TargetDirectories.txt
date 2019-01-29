@@ -1,0 +1,3 @@
+/home/pi/pico2/libroyale/samples/cpp/sampleRecordRRF/CMakeFiles/rebuild_cache.dir
+/home/pi/pico2/libroyale/samples/cpp/sampleRecordRRF/CMakeFiles/edit_cache.dir
+/home/pi/pico2/libroyale/samples/cpp/sampleRecordRRF/CMakeFiles/sampleRecordRRF.dir
